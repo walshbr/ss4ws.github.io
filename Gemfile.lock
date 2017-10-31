@@ -214,10 +214,10 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  tzinfo-data
+  minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.2.3p173
+   ruby 2.2.6p396
 
 BUNDLED WITH
    1.15.1
